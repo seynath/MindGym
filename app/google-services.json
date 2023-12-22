@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166928945440",
+    "project_id": "mind-gym-8303b",
+    "storage_bucket": "mind-gym-8303b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166928945440:android:37f729a71ad1848a4d8745",
+        "android_client_info": {
+          "package_name": "com.example.mindgym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_EGv0C2OuVK2v2LTuaR8ekR9B8NTtfsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
